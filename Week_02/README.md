@@ -1,16 +1,36 @@
 # Week2
 Topic:
-Operator  
+Data Type:
+
+float,integer,whole number(print as float),char,str, list
+
+Operator:
+
 +-*/
-Logic operator
+**,//,%
+
+Logic operator:
+
+or not and
+
 
 For/While Loop
 
-if statement
+
+if statement:
+
 if elif else
-Conditional statement, Comparison
-or not and
-< > == >= <=
+
+Conditional statement, Comparison:
+
+< > == >= <= != 
+
+Identity Operator：
+is 
+is not
+
+
+Other topic:
 
 Clone Repository
 
