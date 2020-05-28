@@ -1,4 +1,4 @@
-# summerpythonclass2020
+# SummerPythonClass2020
 # This is a documentation of Parsons summer 2020 python class.
 
 I will upload my notes and also codes that follow the examples of jupyter notebooks posted in class here. 
