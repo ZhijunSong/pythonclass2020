@@ -10,4 +10,5 @@ Screen Recordings are shared internally in slack and google drive. Please check 
 This is for classmates who are in different time zones to use to keep up-to-date information with school classes.
 
 Codes are for small group of sharing and study only.
+This folder is for personal study use only.
 
